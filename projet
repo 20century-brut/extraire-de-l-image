@@ -1,0 +1,1482 @@
+<!DOCTYPE html>
+<html>
+<style>
+  .draggable {
+    position: absolute;
+  }
+  body {
+  background-image: url('https://i.postimg.cc/DydMx48T/moi2.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+</style>
+<body>
+
+<div id="mydiv1" class="draggable">
+  <img src='https://media.tenor.com/nqQ0JTvnd0EAAAAi/flower.gif' width=50% height=50% />
+</div>
+
+<div id="mydiv2" class="draggable">
+  <img src='https://media.tenor.com/2LwrTEnEL8sAAAAi/doll-glittery.gif'/>
+</div>
+
+<div id="mydiv3" class="draggable">
+  <img src='https://media.tenor.com/vV0vqBZt4cIAAAAi/sparkling-pink-roses.gif' width=50% height=50%/>
+</div>
+
+<div id="mydiv4" class="draggable">
+  <img src='https://media.tenor.com/GGOMYiE9Xt4AAAAi/glitter-blingee.gif'/>
+</div>/>
+
+<div id="mydiv5" class="draggable">
+  <img src='https://media.tenor.com/oqziFJJ3cP0AAAAi/floating-hearts-floating-pink-hearts.gif'/>
+</div>/>
+
+<div id="mydiv6" class="draggable">
+  <img src='https://media.tenor.com/F5IbFjQ9VM8AAAAi/anjinho-angel.gif'/>
+</div>/>
+
+<div id="mydiv7" class="draggable">
+  <img src='https://media.tenor.com/hWhzstw5XB0AAAAi/angel-wings.gif'/>
+</div>/>
+
+<div id="mydiv8" class="draggable">
+  <img src='https://media.tenor.com/jjbTIDs7zVwAAAAj/cool-cool-cool.gif'/>
+</div>/>
+
+<div id="mydiv9" class="draggable">
+  <img src='https://media.tenor.com/S6hR3vsyeEsAAAAi/diamond.gif'/>
+</div>/>
+
+<div id="mydiv10" class="draggable">
+  <img src='https://media.tenor.com/bgJC6RRvcw0AAAAi/ears-prick-up-gif-cocked-ears-gif.gif'/>
+</div>/>
+
+<div id="mydiv11" class="draggable">
+  <img src='https://media.tenor.com/ltZfz7QwHW4AAAAi/prince-thank-you.gif'/>
+</div>/>
+
+<div id="mydiv12" class="draggable">
+  <img src='https://media.tenor.com/Nl9dLWCADLUAAAAi/radio-dance.gif'/>
+</div>/>
+
+<div id="mydiv13" class="draggable">
+  <img src='https://media.tenor.com/E9HRQ9CIijgAAAAi/thanks-thank-you.gif'/>
+</div>/>
+
+<div id="mydiv14" class="draggable">
+  <img src='https://media.tenor.com/bdJTITAGoJQAAAAi/heine-einewieheine.gif'/>
+</div>/>
+
+<div id="mydiv15" class="draggable">
+  <img src='https://media.tenor.com/yoIyZxLMwEwAAAAi/keroppi-glitter.gif'/>
+</div>/>
+
+<div id="mydiv16" class="draggable">
+  <img src='https://media.tenor.com/JOpb4SAADoQAAAAi/happy-valentines-day-happy-valentines.gif'/>
+</div>/>
+
+<div id="mydiv17" class="draggable">
+  <img src='https://media.tenor.com/_5qWmCKzdZUAAAAi/roses-rose.gif' />
+</div>
+
+<div id="mydiv18" class="draggable">
+  <img src='https://media.tenor.com/ufoGfYiwxWwAAAAi/flores.gif'/>
+</div>
+
+<div id="mydiv19" class="draggable">
+  <img src='https://media.tenor.com/2upWNKcsLvAAAAAj/sorry-red.gif'/>
+</div>
+
+<div id="mydiv20" class="draggable">
+  <img src='https://media.tenor.com/Rs4FfUpslN8AAAAi/happy-flower-images.gif'/>
+</div>/>
+
+<div id="mydiv21" class="draggable">
+  <img src='https://media.tenor.com/LsMuQhLbNCAAAAAj/helloall-indian.gif'/>
+</div>/>
+
+<div id="mydiv22" class="draggable">
+  <img src='https://media.tenor.com/hyD81YdRvB0AAAAi/%D9%8A%D8%B3%D9%88%D8%B9-%D9%8A%D8%A8%D8%A7%D8%B1%D9%83.gif'/>
+</div>/>
+
+<div id="mydiv23" class="draggable">
+  <img src='https://media.tenor.com/BxozJXY76yUAAAAi/redevida-jesus.gif'/>
+</div>/>
+
+<div id="mydiv24" class="draggable">
+  <img src='https://media.tenor.com/uPkFkmxi3w0AAAAi/jesus-and-sheep-walking.gif'/>
+</div>/>
+
+<div id="mydiv25" class="draggable">
+  <img src='https://media.tenor.com/1lLk_1mX-woAAAAi/baldi-ruler-slap.gif'/>
+</div>/>
+
+<div id="mydiv26" class="draggable">
+  <img src='https://media.tenor.com/XKf8dfv-s2IAAAAi/baldi-baldi%27s-basics.gif'/>
+</div>/>
+
+<div id="mydiv27" class="draggable">
+  <img src='https://media.tenor.com/evUgKd64q_QAAAAi/mamakuza.gif'/>
+</div>/>
+
+<div id="mydiv28" class="draggable">
+  <img src='https://media.tenor.com/jDfySshu00AAAAAi/hello-kitty.gif'/>
+</div>/>
+
+<div id="mydiv29" class="draggable">
+  <img src='https://media.tenor.com/rC6AvqkxZTkAAAAi/black-cat-black-cat-glitter.gif'/>
+</div>/>
+
+<div id="mydiv30" class="draggable">
+  <img src='https://media.tenor.com/LIxY0o1OTwYAAAAi/vii-gacha-verse.gif'/>
+</div>/>
+
+<div id="mydiv31" class="draggable">
+  <img src='https://media.tenor.com/KHHOYClnxvgAAAAi/anime-manga.gif'/>
+</div>/>
+
+<div id="mydiv32" class="draggable">
+  <img src='https://media.tenor.com/Mhql5nWQm3wAAAAi/smug-smug-jug.gif'/>
+</div>/>
+
+<div id="mydiv33" class="draggable">
+  <img src='https://media.tenor.com/Go_fNA2XH3YAAAAi/3d-pizza.gif'/>
+</div>
+
+<div id="mydiv34" class="draggable">
+  <img src='https://media.tenor.com/9INm3cBNMpcAAAAi/sonic-3d-sonic-3d-blast.gif'/>
+</div>
+
+<div id="mydiv35" class="draggable">
+  <img src='https://media.tenor.com/d10cjrpyOpEAAAAi/pull-up.gif'/>
+</div>
+
+<div id="mydiv36" class="draggable">
+  <img src='https://media.tenor.com/pDlEapqT8fcAAAAi/coraz%C3%B3n.gif'/>
+</div>/>
+
+<div id="mydiv37" class="draggable">
+  <img src='https://media.tenor.com/jxeYaagGjocAAAAi/spongebob-fast.gif'/>
+</div>/>
+
+<div id="mydiv38" class="draggable">
+  <img src='https://media.tenor.com/6MRbeyQyYI8AAAAi/nuh-uh.gif'/>
+</div>/>
+
+<div id="mydiv39" class="draggable">
+  <img src='https://media.tenor.com/jzLenAc6npoAAAAi/computer-computador.gif'/>
+</div>/>
+
+<div id="mydiv40" class="draggable">
+  <img src='https://media.tenor.com/40EG8Z0HnWgAAAAi/seu-logo-em-3d.gif'/>
+</div>/>
+
+<div id="mydiv41" class="draggable">
+  <img src='https://media.tenor.com/9qjJ0JAOrx8AAAAi/dog-3d-model.gif'/>
+</div>/>
+
+<div id="mydiv42" class="draggable">
+  <img src='https://media.tenor.com/XaYqa0wUrGEAAAAi/radio-dance.gif'/>
+</div>/>
+
+<div id="mydiv43" class="draggable">
+  <img src='https://media.tenor.com/ifNo39NZ7oIAAAAi/three-pink.gif'/>
+</div>/>
+
+<div id="mydiv44" class="draggable">
+  <img src='https://media.tenor.com/pE-boYD664sAAAAi/glitter-graphics-pink-sparkles-gifts.gif'/>
+</div>/>
+
+<div id="mydiv45" class="draggable">
+  <img src='https://media.tenor.com/wzmV7t6kDx4AAAAi/dylan-sasha.gif'/>
+</div>/>
+
+<div id="mydiv46" class="draggable">
+  <img src='https://media.tenor.com/-L1RlniBUnAAAAAi/roach-pink.gif'/>
+</div>/>
+
+<div id="mydiv47" class="draggable">
+  <img src='https://media.tenor.com/q7JZOtGJSBUAAAAi/bratz-sticker.gif'/>
+</div>/>
+
+<div id="mydiv48" class="draggable">
+  <img src='https://media.tenor.com/3BDQAAPXieIAAAAi/fairy-glitter-fairy.gif'/>
+</div>/>
+
+<div id="mydiv49" class="draggable">
+  <img src='https://media.tenor.com/h4LR2DXUtBAAAAAi/kisses-sweet-kisses.gif' />
+</div>
+
+<div id="mydiv50" class="draggable">
+  <img src='https://media.tenor.com/u8Z6qPoWlEsAAAAi/heart-love-heart.gif'/>
+</div>
+
+<div id="mydiv51" class="draggable">
+  <img src='https://media.tenor.com/cpVTCY_sej0AAAAi/teddy-bear-cute-teddy-bear.gif'/>
+</div>
+
+<div id="mydiv53" class="draggable">
+  <img src='https://media.tenor.com/jmG93bWAS-8AAAAi/princess-glitter.gif'/>
+</div>/>
+
+<div id="mydiv54" class="draggable">
+  <img src='https://media.tenor.com/xfuEVpEHXyMAAAAi/glitter-blingee.gif'/>
+</div>/>
+
+<div id="mydiv55" class="draggable">
+  <img src='https://media.tenor.com/LOP2xIfluWoAAAAi/pink-floyd-pink-panther.gif'/>
+</div>/>
+
+<div id="mydiv56" class="draggable">
+  <img src='https://media.tenor.com/XQemtU_j7_0AAAAi/wink-girl.gif'/>
+</div>/>
+
+<div id="mydiv57" class="draggable">
+  <img src='https://media.tenor.com/-VpMm0mdjfQAAAAi/leveta-lunaty-pink.gif'/>
+</div>/>
+
+<div id="mydiv58" class="draggable">
+  <img src='https://media.tenor.com/1SyYxhwMOKsAAAAi/stars-pink.gif'/>
+</div>/>
+
+<div id="mydiv59" class="draggable">
+  <img src='https://media.tenor.com/Li0H8CqIXiEAAAAi/kpop-the-vote-kpop.gif'/>
+</div>/>
+
+<div id="mydiv60" class="draggable">
+  <img src='https://media.tenor.com/PWBCuYHHPZ8AAAAi/borboletas-butterfly.gif'/>
+</div>/>
+
+<div id="mydiv61" class="draggable">
+  <img src='https://media.tenor.com/-u0cezv71DQAAAAi/unnnie.gif'/>
+</div>/>
+
+<div id="mydiv62" class="draggable">
+  <img src='https://media.tenor.com/noMa4dCz2XAAAAAi/dancing-cat-pink-cat.gif'/>
+</div>/>
+
+<div id="mydiv63" class="draggable">
+  <img src='https://media.tenor.com/ccob6NxXWxkAAAAi/glitter.gif'/>
+</div>/>
+
+<div id="mydiv64" class="draggable">
+  <img src='https://media.tenor.com/Sog3qstYZPgAAAAi/christmas-tree-christmas-lights.gif'/>
+</div>/>
+
+<div id="mydiv52" class="draggable">
+  <img src='https://media.tenor.com/Fg4NQjfnLI0AAAAi/flower-sparkle.gif'/>
+</div>/>
+
+<div id="mydiv65" class="draggable">
+  <img src='https://media.tenor.com/24LZ6PZJpJAAAAAi/sailor-moon-glitter.gif'/>
+</div>
+
+<div id="mydiv66" class="draggable">
+  <img src='https://media.tenor.com/UeVAzwnJa-8AAAAi/be-mine-love.gif'/>
+</div>
+
+<div id="mydiv67" class="draggable">
+  <img src='https://media.tenor.com/XMsn2AXpuGkAAAAi/glitter-sparkle.gif'/>
+</div>
+
+<div id="mydiv68" class="draggable">
+  <img src='https://media.tenor.com/rmWhl0Pf5SIAAAAi/spongebob-smile.gif'/>
+</div>/>
+
+<div id="mydiv69" class="draggable">
+  <img src='https://media.tenor.com/erM06874CeEAAAAi/cute-cartoon.gif'/>
+</div>/>
+
+<div id="mydiv70" class="draggable">
+  <img src='https://media.tenor.com/--tswHS2drsAAAAi/beach-doll-snow-globe.gif'/>
+</div>/>
+
+<div id="mydiv71" class="draggable">
+  <img src='https://media.tenor.com/oPKRjbh82P4AAAAi/gold-butterfly-left-butterfly.gif'/>
+</div>/>
+
+<div id="mydiv72" class="draggable">
+  <img src='https://media.tenor.com/pcgrkMFEhrUAAAAi/good-night-looney-tunes.gif'/>
+</div>/>
+
+<div id="mydiv73" class="draggable">
+  <img src='https://media.tenor.com/u9Neg4oxZ3gAAAAi/fantasy-boldog-kar%C3%A1csonyt.gif'/>
+</div>/>
+
+<div id="mydiv74" class="draggable">
+  <img src='https://media.tenor.com/aeDGY0G_VgIAAAAi/cute-doll-glittery-car.gif'/>
+</div>/>
+
+<div id="mydiv75" class="draggable">
+  <img src='https://media.tenor.com/vXXFtqV3-VEAAAAi/sailor-moon-anime.gif'/>
+</div>/>
+
+<div id="mydiv76" class="draggable">
+  <img src='https://media.tenor.com/HDPgmI59k-QAAAAi/fiary-fairy.gif'/>
+</div>/>
+
+<div id="mydiv77" class="draggable">
+  <img src='https://media.tenor.com/vZ5AH7m2TbMAAAAi/alexandra-peace.gif'/>
+</div>/>
+
+<div id="mydiv78" class="draggable">
+  <img src='https://media.tenor.com/oSeNwiyhEJIAAAAi/sparkle-jinjo.gif'/>
+</div>/>
+
+<div id="mydiv79" class="draggable">
+  <img src='https://media.tenor.com/Ju8c1WIzTE0AAAAi/vegeta-dance.gif'/>
+</div>/>
+
+<div id="mydiv80" class="draggable">
+  <img src='https://media.tenor.com/jqob_XKLnl4AAAAi/vinejoel-mariogroove.gif'/>
+</div>/>
+
+<div id="mydiv81" class="draggable">
+  <img src='https://media.tenor.com/379oAn4ua1UAAAAi/arthur-arthurs-teacher-trouble.gif' />
+</div>
+
+<div id="mydiv82" class="draggable">
+  <img src='https://media.tenor.com/bxzKF2IjxzYAAAAi/brakedance.gif'/>
+</div>
+
+<div id="mydiv83" class="draggable">
+  <img src='https://media.tenor.com/KD0pRP4X9y8AAAAi/hearts-hearts-of-love.gif'/>
+</div>
+
+<div id="mydiv84" class="draggable">
+  <img src='https://media.tenor.com/KL0pGIkH2gwAAAAj/shine-on-diamond.gif'/>
+</div>/>
+
+<div id="mydiv85" class="draggable">
+  <img src='https://media.tenor.com/qXCLchzwq6EAAAAi/diamond-heart.gif'/>
+</div>/>
+
+<div id="mydiv86" class="draggable">
+  <img src='https://media.tenor.com/jZVz9i4JgBsAAAAi/strong-muscles.gif'/>
+</div>/>
+
+<div id="mydiv87" class="draggable">
+  <img src='https://media.tenor.com/Xrpv9Lp_YXoAAAAi/diamond-diamond-hand.gif'/>
+</div>/>
+
+<div id="mydiv88" class="draggable">
+  <img src='https://media.tenor.com/gjTjxUCoP3sAAAAi/jumping-gatito.gif'/>
+</div>/>
+
+<div id="mydiv89" class="draggable">
+  <img src='https://media.tenor.com/vIs0Ef6gsBgAAAAi/toronao-toro.gif'/>
+</div>/>
+
+<div id="mydiv90" class="draggable">
+  <img src='https://media.tenor.com/e70PSmKNp3YAAAAi/cat-dancing-gat.gif'/>
+</div>/>
+
+<div id="mydiv91" class="draggable">
+  <img src='https://media.tenor.com/qjGeB4FjA7kAAAAi/cat.gif'/>
+</div>/>
+
+<div id="mydiv92" class="draggable">
+  <img src='https://media.tenor.com/ORLWQWjdWhQAAAAi/discordskull081719-discord.gif'/>
+</div>/>
+
+<div id="mydiv93" class="draggable">
+  <img src='https://media.tenor.com/SobspNWmkYcAAAAi/heart-glittery.gif'/>
+</div>/>
+
+<div id="mydiv94" class="draggable">
+  <img src='https://media.tenor.com/L-Hrd2TGhVAAAAAi/hearts-blue.gif'/>
+</div>/>
+
+<div id="mydiv95" class="draggable">
+  <img src='https://media.tenor.com/N0CM79rJzHYAAAAi/bart-simpson-mega-man.gif'/>
+</div>/>
+
+<div id="mydiv96" class="draggable">
+  <img src='https://media.tenor.com/5OHTHrLEiAwAAAAi/belly-laugh-laughing-hard.gif'/>
+</div>/>
+
+<div id="mydiv97" class="draggable">
+  <img src='https://media.tenor.com/8SmV2oyGfr0AAAAi/girl-running-wind-hair.gif'/>
+</div>
+
+<div id="mydiv98" class="draggable">
+  <img src='https://media.tenor.com/Cy6Ihw5GPhwAAAAj/celebrating-zeltlager-werreweser.gif'/>
+</div>
+
+<div id="mydiv99" class="draggable">
+  <img src='https://media.tenor.com/d1loSIXVgwYAAAAi/girl-pretty.gif'/>
+</div>
+
+<div id="mydiv100" class="draggable">
+  <img src='https://media.tenor.com/a9XEBtTiQ5IAAAAi/baby-girl-baby.gif'/>
+</div>/>
+
+<div id="mydiv101" class="draggable">
+  <img src='https://media.tenor.com/jrXwun1BX5AAAAAi/beautiful-brown.gif'/>
+</div>/>
+
+<div id="mydiv102" class="draggable">
+  <img src='https://media.tenor.com/fOP9jA3HaMsAAAAi/hearts-of-happiness-hearts.gif'/>
+</div>/>
+
+<div id="mydiv103" class="draggable">
+  <img src='https://media.tenor.com/u9YG1aheBEMAAAAi/love-somebody-loveyourself.gif'/>
+</div>/>
+
+<div id="mydiv104" class="draggable">
+  <img src='https://media.tenor.com/VG8naZQYS8cAAAAi/i-love-you.gif'/>
+</div>/>
+
+<div id="mydiv105" class="draggable">
+  <img src='https://media.tenor.com/msFOV3ojcAsAAAAj/i-love-you-love-you-so-much.gif'/>
+</div>/>
+
+<div id="mydiv106" class="draggable">
+  <img src='https://media.tenor.com/_brK36vm9WsAAAAi/i-love-you.gif'/>
+</div>/>
+
+<div id="mydiv107" class="draggable">
+  <img src='https://media.tenor.com/5ENLvIoYulYAAAAi/%D8%B5%D8%A8%D8%A7%D8%AD-%D8%A7%D9%84%D8%AE%D9%8A%D8%B1-2024.gif'/>
+</div>/>
+
+<div id="mydiv108" class="draggable">
+  <img src='https://media.tenor.com/Vj_m0OdtT8EAAAAi/youaremyhappypills-happypills.gif'/>
+</div>/>
+
+<div id="mydiv109" class="draggable">
+  <img src='https://media.tenor.com/Qd59-ymi6wAAAAAi/heart-images-heart.gif'/>
+</div>/>
+
+<div id="mydiv110" class="draggable">
+  <img src='https://media.tenor.com/TxOArcYDvwEAAAAi/angel.gif'/>
+</div>/>
+
+<div id="mydiv111" class="draggable">
+  <img src='https://media.tenor.com/q1SSV_dNoj0AAAAi/angel-engel.gif'/>
+</div>/>
+
+<div id="mydiv112" class="draggable">
+  <img src='https://media.tenor.com/nPoAlNAvuFYAAAAi/praying-smiley-smiley.gif'/>
+</div>/>
+
+<div id="mydiv113" class="draggable">
+  <img src='https://media.tenor.com/flZKZQZFq8AAAAAi/szentek-wings.gif' />
+</div>
+
+<div id="mydiv114" class="draggable">
+  <img src='https://media.tenor.com/W64QQ1QU-ekAAAAi/love-angel.gif'/>
+</div>
+
+<div id="mydiv115" class="draggable">
+  <img src='https://media.tenor.com/efAY50k7uHwAAAAi/angel-eyes-glittery.gif'/>
+</div>
+
+<div id="mydiv116" class="draggable">
+  <img src='https://media.tenor.com/06nMnK8zrwQAAAAi/angyal-csod%C3%A1s.gif'/>
+</div>/>
+
+<div id="mydiv117" class="draggable">
+  <img src='https://media.tenor.com/ugtsQ5DoUysAAAAi/sheldon-cooper-the-big-bang-theory.gif'/>
+</div>/>
+
+<div id="mydiv118" class="draggable">
+  <img src='https://media.tenor.com/F-OLy-dTBQIAAAAi/sonic-fortnite-dance.gif'/>
+</div>/>
+
+<div id="mydiv119" class="draggable">
+  <img src='https://media.tenor.com/GHwEFjcxG_AAAAAi/baldi-baldi-basics.gif'/>
+</div>/>
+
+<div id="mydiv120" class="draggable">
+  <img src='https://media.tenor.com/52M2P0XtgQUAAAAi/roblox-dance.gif'/>
+</div>/>
+
+<div id="mydiv121" class="draggable">
+  <img src='https://media.tenor.com/Qe2XCMBbUl4AAAAi/gegagedigedagedago-gedagedago.gif'/>
+</div>/>
+
+<div id="mydiv122" class="draggable">
+  <img src='https://media.tenor.com/yYaESrs4NuoAAAAi/roblox-woman-roblox-face.gif'/>
+</div>/>
+
+<div id="mydiv123" class="draggable">
+  <img src='https://media.tenor.com/FvzqQj3fSB4AAAAi/killing-peppa-pig-die.gif'/>
+</div>/>
+
+<div id="mydiv124" class="draggable">
+  <img src='https://media.tenor.com/v5dnJn-uE20AAAAj/pinata-peppa.gif'/>
+</div>/>
+
+<div id="mydiv125" class="draggable">
+  <img src='https://media.tenor.com/rU43cGAA4cAAAAAi/pig.gif'/>
+</div>/>
+
+<div id="mydiv126" class="draggable">
+  <img src='https://media.tenor.com/IM8AgLgrFh4AAAAi/lihkg-pig.gif'/>
+</div>/>
+
+<div id="mydiv127" class="draggable">
+  <img src='https://media.tenor.com/ikuNiSG_TPQAAAAi/minecraft-pig.gif'/>
+</div>/>
+
+<div id="mydiv128" class="draggable">
+  <img src='https://media.tenor.com/8T-u7rKklugAAAAi/spinning-pig-minecraft-pig.gif'/>
+</div>/>
+
+<div id="mydiv 129 " class="draggable">
+  <img src='https://media.tenor.com/qlwI0i0dEhEAAAAi/glitter-blingee.gif'/>
+</div>/>
+<div id="mydiv 130 " class="draggable">
+  <img src='https://media.tenor.com/ZUnobMFmO98AAAAi/butterfly-glitter-graphic-glossi.gif'/>
+</div>/>
+<div id="mydiv 131 " class="draggable">
+  <img src='https://media.tenor.com/sqkh-29PnFkAAAAi/glitterylilac-glitter-border.gif'/>
+</div>/>
+<div id="mydiv 132 " class="draggable">
+  <img src='https://media.tenor.com/qMoY6JceIzoAAAAi/fairy-glitter.gif'/>
+</div>/>
+<div id="mydiv 133 " class="draggable">
+  <img src='https://media.tenor.com/YKSnj5L261gAAAAi/glitter-blingee.gif'/>
+</div>/>
+<div id="mydiv 134 " class="draggable">
+  <img src='https://media.tenor.com/hMUyAqS9kwwAAAAi/good-morning-cup.gif'/>
+</div>/>
+<div id="mydiv 135 " class="draggable">
+  <img src='https://media.tenor.com/H0wxus7UdVcAAAAi/bratz-bratz-doll.gif'/>
+</div>/>
+<div id="mydiv 136 " class="draggable">
+  <img src='https://media.tenor.com/PiHFGLyKDQMAAAAi/happy-birthday.gif'/>
+</div>/>
+<div id="mydiv 137 " class="draggable">
+  <img src='https://media.tenor.com/gpAOJT_tinoAAAAi/glitter-blingee.gif'/>
+</div>/>
+<div id="mydiv 138 " class="draggable">
+  <img src='https://media.tenor.com/j2mG8hq0KA4AAAAi/poinsettia-happy-poinsettia-day.gif'/>
+</div>/>
+<div id="mydiv 139 " class="draggable">
+  <img src='https://media.tenor.com/sBACnztq64AAAAAi/glitter-graphics.gif'/>
+</div>/>
+<div id="mydiv 140 " class="draggable">
+  <img src='https://media.tenor.com/9jO20mZ71LsAAAAi/b%C3%B6be-giffjei-glitter.gif'/>
+</div>/>
+<div id="mydiv 141 " class="draggable">
+  <img src='https://media.tenor.com/SwE7SQO4y_YAAAAi/glitter-blingee.gif'/>
+</div>/>
+<div id="mydiv 142 " class="draggable">
+  <img src='https://media.tenor.com/M8m-uL_Xg1cAAAAi/sparkle-star.gif'/>
+</div>/>
+<div id="mydiv 143 " class="draggable">
+  <img src='https://media.tenor.com/nFwyvYLd2aQAAAAi/hearts-glittery.gif'/>
+</div>/>
+<div id="mydiv 144 " class="draggable">
+  <img src='https://media.tenor.com/MuYGjTvbsqUAAAAi/betty-boop-fairy.gif'/>
+</div>/>
+<div id="mydiv 145 " class="draggable">
+  <img src='https://media.tenor.com/SN6z2RupNxwAAAAi/heart-love-heart.gif'/>
+</div>/>
+<div id="mydiv 146 " class="draggable">
+  <img src='https://media.tenor.com/b7b9rxPvS_kAAAAi/betty-boop-betty-boop-monday.gif'/>
+</div>/>
+<div id="mydiv 147 " class="draggable">
+  <img src='https://media.tenor.com/kzNkZXjCaGoAAAAi/gold-glitter.gif'/>
+</div>/>
+<div id="mydiv 148 " class="draggable">
+  <img src='https://media.tenor.com/24LZ6PZJpJAAAAAi/sailor-moon-glitter.gif'/>
+</div>/>
+<div id="mydiv 149 " class="draggable">
+  <img src='https://media.tenor.com/MNiqzb0SWmYAAAAi/%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82-%D0%B1%D0%BB%D0%B5%D1%81%D1%82%D0%BA%D0%B8.gif'/>
+</div>/>
+<div id="mydiv 150 " class="draggable">
+  <img src='https://media.tenor.com/D_JGknMwruIAAAAi/sailor-moon-cat.gif'/>
+</div>/>
+<div id="mydiv 151 " class="draggable">
+  <img src='https://media.tenor.com/ZWxUFDrksOEAAAAi/red-rose-rose.gif'/>
+</div>/>
+<div id="mydiv 152 " class="draggable">
+  <img src='https://media.tenor.com/oPKRjbh82P4AAAAi/gold-butterfly-left-butterfly.gif'/>
+</div>/>
+<div id="mydiv 153 " class="draggable">
+  <img src='https://media.tenor.com/dbu36GQM5E0AAAAi/happy-birthday-happy-birthday-wishes.gif'/>
+</div>/>
+<div id="mydiv 154 " class="draggable">
+  <img src='https://media.tenor.com/VPdxWEplVKYAAAAi/pink-flower-sparkles.gif'/>
+</div>/>
+<div id="mydiv 155 " class="draggable">
+  <img src='https://media.tenor.com/Uv8xBXefIz4AAAAi/red-onion-red.gif'/>
+</div>/>
+<div id="mydiv 156 " class="draggable">
+  <img src='https://media.tenor.com/J07cvjoNXpMAAAAi/glitter-flower.gif'/>
+</div>/>
+<div id="mydiv 157 " class="draggable">
+  <img src='https://media.tenor.com/IFpTFLouLK4AAAAi/america-heart.gif'/>
+</div>/>
+<div id="mydiv 158 " class="draggable">
+  <img src='https://media.tenor.com/EzYnBq4qpGsAAAAi/love-gold.gif'/>
+</div>/>
+<div id="mydiv 159 " class="draggable">
+  <img src='https://media.tenor.com/2nuTqv6WHYcAAAAi/hello-butterfly.gif'/>
+</div>/>
+<div id="mydiv 160 " class="draggable">
+  <img src='https://media.tenor.com/5BCyFw46mwMAAAAi/balor-fields-of-mistria.gif'/>
+</div>/>
+<div id="mydiv 161 " class="draggable">
+  <img src='https://media.tenor.com/27efY_hz6A8AAAAi/jingle-bells-glitter.gif'/>
+</div>/>
+<div id="mydiv 162 " class="draggable">
+  <img src='https://media.tenor.com/s70PqkOoAWwAAAAi/tiger-purple-tiger.gif'/>
+</div>/>
+<div id="mydiv 163 " class="draggable">
+  <img src='https://media.tenor.com/-Oa50kbk8RUAAAAi/pink-sparkle-doll-doll.gif'/>
+</div>/>
+<div id="mydiv 164 " class="draggable">
+  <img src='https://media.tenor.com/wzs4opfxBg8AAAAi/anime-blingee.gif'/>
+</div>/>
+<div id="mydiv 165 " class="draggable">
+  <img src='https://media.tenor.com/dFJ_JqtuCCwAAAAi/happy-birthday-happy-birthday-to-you.gif'/>
+</div>/>
+<div id="mydiv 166 " class="draggable">
+  <img src='https://media.tenor.com/Ihpk5TA5ny4AAAAi/tinkerbell-sparkle.gif'/>
+</div>/>
+<div id="mydiv 167 " class="draggable">
+  <img src='https://media.tenor.com/r3gYmgALXnIAAAAi/good-morning-flower.gif'/>
+</div>/>
+<div id="mydiv 168 " class="draggable">
+  <img src='https://media.tenor.com/xRiQ4X78dUYAAAAi/sparkly-jinx.gif'/>
+</div>/>
+<div id="mydiv 169 " class="draggable">
+  <img src='https://media.tenor.com/a7T8HA16qogAAAAi/i-love-you-flowers.gif'/>
+</div>/>
+<div id="mydiv 170 " class="draggable">
+  <img src='https://media.tenor.com/vl6I9d5sz-kAAAAi/red-rose-red-rose-image.gif'/>
+</div>/>
+<div id="mydiv 171 " class="draggable">
+  <img src='https://media.tenor.com/tfqfSfo2E6gAAAAi/heartbreak-glitter.gif'/>
+</div>/>
+<div id="mydiv 172 " class="draggable">
+  <img src='https://media.tenor.com/A1lBfhxhUpcAAAAi/glitter-girl.gif'/>
+</div>/>
+<div id="mydiv 173 " class="draggable">
+  <img src='https://media.tenor.com/tkLJKAABzwYAAAAi/retro-sparkles.gif'/>
+</div>/>
+<div id="mydiv 174 " class="draggable">
+  <img src='https://media.tenor.com/XBoKxN_MttsAAAAi/bears-glow.gif'/>
+</div>/>
+<div id="mydiv 175 " class="draggable">
+  <img src='https://media.tenor.com/IWzb9fcCQuYAAAAi/nemzeti%C3%BCnnep-glitter.gif'/>
+</div>/>
+<div id="mydiv 176 " class="draggable">
+  <img src='https://media.tenor.com/Xk-DK1wu01kAAAAi/naughty-boy-go-to-my-room.gif'/>
+</div>/>
+<div id="mydiv 177 " class="draggable">
+  <img src='https://media.tenor.com/Ge2D2ybMSKQAAAAi/roses-roses-for-you.gif'/>
+</div>/>
+<div id="mydiv 178 " class="draggable">
+  <img src='https://media.tenor.com/yiVuaE_iIrwAAAAi/old-school-throwback.gif'/>
+</div>/>
+<div id="mydiv 179 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 180 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 181 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 182 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 183 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 184 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 185 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 186 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 187 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 188 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 189 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 190 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 191 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 192 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 193 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 194 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 195 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 196 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 197 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 198 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 199 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 200 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 201 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 202 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 203 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 204 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 205 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 206 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 207 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 208 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 209 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 210 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 211 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 212 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 213 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 214 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 215 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 216 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 217 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 218 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 219 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 220 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 221 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 222 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 223 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 224 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 225 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 226 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 227 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 228 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 229 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 230 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 231 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 232 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 233 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 234 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 235 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 236 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 237 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 238 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 239 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 240 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 241 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 242 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 243 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 244 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 245 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 246 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 247 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 248 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 249 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 250 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 251 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 252 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 253 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 254 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 255 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+<div id="mydiv 256 " class="draggable">
+  <img src='https://media.tenor.com/hWTbbtNNvLIAAAAi/pig.gif'/>
+</div>/>
+
+
+
+
+</div>
+
+<script>
+//Make all DIV elements draggable
+dragElement(document.getElementById("mydiv1"));
+dragElement(document.getElementById("mydiv2"));
+dragElement(document.getElementById("mydiv3"));
+dragElement(document.getElementById("mydiv4"));
+dragElement(document.getElementById("mydiv5"));
+dragElement(document.getElementById("mydiv6"));
+dragElement(document.getElementById("mydiv8"));
+dragElement(document.getElementById("mydiv7"));
+dragElement(document.getElementById("mydiv9"));
+dragElement(document.getElementById("mydiv10"));
+dragElement(document.getElementById("mydiv11"));
+dragElement(document.getElementById("mydiv12"));
+dragElement(document.getElementById("mydiv13"));
+dragElement(document.getElementById("mydiv14"));
+dragElement(document.getElementById("mydiv15"));
+dragElement(document.getElementById("mydiv16"));
+dragElement(document.getElementById("mydiv17"));
+dragElement(document.getElementById("mydiv18"));
+dragElement(document.getElementById("mydiv19"));
+dragElement(document.getElementById("mydiv20"));
+dragElement(document.getElementById("mydiv21"));
+dragElement(document.getElementById("mydiv22"));
+dragElement(document.getElementById("mydiv23"));
+dragElement(document.getElementById("mydiv24"));
+dragElement(document.getElementById("mydiv25"));
+dragElement(document.getElementById("mydiv26"));
+dragElement(document.getElementById("mydiv27"));
+dragElement(document.getElementById("mydiv28"));
+dragElement(document.getElementById("mydiv29"));
+dragElement(document.getElementById("mydiv30"));
+dragElement(document.getElementById("mydiv31"));
+dragElement(document.getElementById("mydiv32"));
+dragElement(document.getElementById("mydiv33"));
+dragElement(document.getElementById("mydiv34"));
+dragElement(document.getElementById("mydiv35"));
+dragElement(document.getElementById("mydiv36"));
+dragElement(document.getElementById("mydiv37"));
+dragElement(document.getElementById("mydiv38"));
+dragElement(document.getElementById("mydiv39"));
+dragElement(document.getElementById("mydiv40"));
+dragElement(document.getElementById("mydiv41"));
+dragElement(document.getElementById("mydiv42"));
+dragElement(document.getElementById("mydiv43"));
+dragElement(document.getElementById("mydiv44"));
+dragElement(document.getElementById("mydiv45"));
+dragElement(document.getElementById("mydiv46"));
+dragElement(document.getElementById("mydiv47"));
+dragElement(document.getElementById("mydiv48"));
+dragElement(document.getElementById("mydiv49"));
+dragElement(document.getElementById("mydiv50"));
+dragElement(document.getElementById("mydiv51"));
+dragElement(document.getElementById("mydiv52"));
+dragElement(document.getElementById("mydiv53"));
+dragElement(document.getElementById("mydiv54"));
+dragElement(document.getElementById("mydiv55"));
+dragElement(document.getElementById("mydiv56"));
+dragElement(document.getElementById("mydiv57"));
+dragElement(document.getElementById("mydiv58"));
+dragElement(document.getElementById("mydiv59"));
+dragElement(document.getElementById("mydiv60"));
+dragElement(document.getElementById("mydiv61"));
+dragElement(document.getElementById("mydiv62"));
+dragElement(document.getElementById("mydiv63"));
+dragElement(document.getElementById("mydiv64"));
+dragElement(document.getElementById("mydiv65"));
+dragElement(document.getElementById("mydiv66"));
+dragElement(document.getElementById("mydiv67"));
+dragElement(document.getElementById("mydiv68"));
+dragElement(document.getElementById("mydiv69"));
+dragElement(document.getElementById("mydiv70"));
+dragElement(document.getElementById("mydiv71"));
+dragElement(document.getElementById("mydiv72"));
+dragElement(document.getElementById("mydiv73"));
+dragElement(document.getElementById("mydiv74"));
+dragElement(document.getElementById("mydiv76"));
+dragElement(document.getElementById("mydiv77"));
+dragElement(document.getElementById("mydiv79"));
+dragElement(document.getElementById("mydiv80"));
+dragElement(document.getElementById("mydiv81"));
+dragElement(document.getElementById("mydiv82"));
+dragElement(document.getElementById("mydiv83"));
+dragElement(document.getElementById("mydiv84"));
+dragElement(document.getElementById("mydiv85"));
+dragElement(document.getElementById("mydiv86"));
+dragElement(document.getElementById("mydiv87"));
+dragElement(document.getElementById("mydiv88"));
+dragElement(document.getElementById("mydiv89"));
+dragElement(document.getElementById("mydiv90"));
+dragElement(document.getElementById("mydiv91"));
+dragElement(document.getElementById("mydiv92"));
+dragElement(document.getElementById("mydiv93"));
+dragElement(document.getElementById("mydiv94"));
+dragElement(document.getElementById("mydiv95"));
+dragElement(document.getElementById("mydiv96"));
+dragElement(document.getElementById("mydiv97"));
+dragElement(document.getElementById("mydiv98"));
+dragElement(document.getElementById("mydiv99"));
+dragElement(document.getElementById("mydiv100"));
+dragElement(document.getElementById("mydiv101"));
+dragElement(document.getElementById("mydiv102"));
+dragElement(document.getElementById("mydiv103"));
+dragElement(document.getElementById("mydiv104"));
+dragElement(document.getElementById("mydiv105"));
+dragElement(document.getElementById("mydiv106"));
+dragElement(document.getElementById("mydiv107"));
+dragElement(document.getElementById("mydiv108"));
+dragElement(document.getElementById("mydiv109"));
+dragElement(document.getElementById("mydiv110"));
+dragElement(document.getElementById("mydiv111"));
+dragElement(document.getElementById("mydiv112"));
+dragElement(document.getElementById("mydiv113"));
+dragElement(document.getElementById("mydiv114"));
+dragElement(document.getElementById("mydiv115"));
+dragElement(document.getElementById("mydiv116"));
+dragElement(document.getElementById("mydiv117"));
+dragElement(document.getElementById("mydiv118"));
+dragElement(document.getElementById("mydiv119"));
+dragElement(document.getElementById("mydiv120"));
+dragElement(document.getElementById("mydiv121"));
+dragElement(document.getElementById("mydiv122"));
+dragElement(document.getElementById("mydiv123"));
+dragElement(document.getElementById("mydiv124"));
+dragElement(document.getElementById("mydiv125"));
+dragElement(document.getElementById("mydiv126"));
+dragElement(document.getElementById("mydiv127"));
+dragElement(document.getElementById("mydiv128"));
+dragElement(document.getElementById("mydiv75"));
+dragElement(document.getElementById("mydiv78"));
+dragElement(document.getElementById("mydiv 129 "));
+dragElement(document.getElementById("mydiv 130 "));
+dragElement(document.getElementById("mydiv 131 "));
+dragElement(document.getElementById("mydiv 132 "));
+dragElement(document.getElementById("mydiv 133 "));
+dragElement(document.getElementById("mydiv 134 "));
+dragElement(document.getElementById("mydiv 135 "));
+dragElement(document.getElementById("mydiv 136 "));
+dragElement(document.getElementById("mydiv 137 "));
+dragElement(document.getElementById("mydiv 138 "));
+dragElement(document.getElementById("mydiv 139 "));
+dragElement(document.getElementById("mydiv 140 "));
+dragElement(document.getElementById("mydiv 141 "));
+dragElement(document.getElementById("mydiv 142 "));
+dragElement(document.getElementById("mydiv 143 "));
+dragElement(document.getElementById("mydiv 144 "));
+dragElement(document.getElementById("mydiv 145 "));
+dragElement(document.getElementById("mydiv 146 "));
+dragElement(document.getElementById("mydiv 147 "));
+dragElement(document.getElementById("mydiv 148 "));
+dragElement(document.getElementById("mydiv 149 "));
+dragElement(document.getElementById("mydiv 150 "));
+dragElement(document.getElementById("mydiv 151 "));
+dragElement(document.getElementById("mydiv 152 "));
+dragElement(document.getElementById("mydiv 153 "));
+dragElement(document.getElementById("mydiv 154 "));
+dragElement(document.getElementById("mydiv 155 "));
+dragElement(document.getElementById("mydiv 156 "));
+dragElement(document.getElementById("mydiv 157 "));
+dragElement(document.getElementById("mydiv 158 "));
+dragElement(document.getElementById("mydiv 159 "));
+dragElement(document.getElementById("mydiv 160 "));
+dragElement(document.getElementById("mydiv 161 "));
+dragElement(document.getElementById("mydiv 162 "));
+dragElement(document.getElementById("mydiv 163 "));
+dragElement(document.getElementById("mydiv 164 "));
+dragElement(document.getElementById("mydiv 165 "));
+dragElement(document.getElementById("mydiv 166 "));
+dragElement(document.getElementById("mydiv 167 "));
+dragElement(document.getElementById("mydiv 168 "));
+dragElement(document.getElementById("mydiv 169 "));
+dragElement(document.getElementById("mydiv 170 "));
+dragElement(document.getElementById("mydiv 171 "));
+dragElement(document.getElementById("mydiv 172 "));
+dragElement(document.getElementById("mydiv 173 "));
+dragElement(document.getElementById("mydiv 174 "));
+dragElement(document.getElementById("mydiv 175 "));
+dragElement(document.getElementById("mydiv 176 "));
+dragElement(document.getElementById("mydiv 177 "));
+dragElement(document.getElementById("mydiv 178 "));
+dragElement(document.getElementById("mydiv 179 "));
+dragElement(document.getElementById("mydiv 180 "));
+dragElement(document.getElementById("mydiv 181 "));
+dragElement(document.getElementById("mydiv 182 "));
+dragElement(document.getElementById("mydiv 183 "));
+dragElement(document.getElementById("mydiv 184 "));
+dragElement(document.getElementById("mydiv 185 "));
+dragElement(document.getElementById("mydiv 186 "));
+dragElement(document.getElementById("mydiv 187 "));
+dragElement(document.getElementById("mydiv 188 "));
+dragElement(document.getElementById("mydiv 189 "));
+dragElement(document.getElementById("mydiv 190 "));
+dragElement(document.getElementById("mydiv 191 "));
+dragElement(document.getElementById("mydiv 192 "));
+dragElement(document.getElementById("mydiv 193 "));
+dragElement(document.getElementById("mydiv 194 "));
+dragElement(document.getElementById("mydiv 195 "));
+dragElement(document.getElementById("mydiv 196 "));
+dragElement(document.getElementById("mydiv 197 "));
+dragElement(document.getElementById("mydiv 198 "));
+dragElement(document.getElementById("mydiv 199 "));
+dragElement(document.getElementById("mydiv 200 "));
+dragElement(document.getElementById("mydiv 201 "));
+dragElement(document.getElementById("mydiv 202 "));
+dragElement(document.getElementById("mydiv 203 "));
+dragElement(document.getElementById("mydiv 204 "));
+dragElement(document.getElementById("mydiv 205 "));
+dragElement(document.getElementById("mydiv 206 "));
+dragElement(document.getElementById("mydiv 207 "));
+dragElement(document.getElementById("mydiv 208 "));
+dragElement(document.getElementById("mydiv 209 "));
+dragElement(document.getElementById("mydiv 210 "));
+dragElement(document.getElementById("mydiv 211 "));
+dragElement(document.getElementById("mydiv 212 "));
+dragElement(document.getElementById("mydiv 213 "));
+dragElement(document.getElementById("mydiv 214 "));
+dragElement(document.getElementById("mydiv 215 "));
+dragElement(document.getElementById("mydiv 216 "));
+dragElement(document.getElementById("mydiv 217 "));
+dragElement(document.getElementById("mydiv 218 "));
+dragElement(document.getElementById("mydiv 219 "));
+dragElement(document.getElementById("mydiv 220 "));
+dragElement(document.getElementById("mydiv 221 "));
+dragElement(document.getElementById("mydiv 222 "));
+dragElement(document.getElementById("mydiv 223 "));
+dragElement(document.getElementById("mydiv 224 "));
+dragElement(document.getElementById("mydiv 225 "));
+dragElement(document.getElementById("mydiv 226 "));
+dragElement(document.getElementById("mydiv 227 "));
+dragElement(document.getElementById("mydiv 228 "));
+dragElement(document.getElementById("mydiv 229 "));
+dragElement(document.getElementById("mydiv 230 "));
+dragElement(document.getElementById("mydiv 231 "));
+dragElement(document.getElementById("mydiv 232 "));
+dragElement(document.getElementById("mydiv 233 "));
+dragElement(document.getElementById("mydiv 234 "));
+dragElement(document.getElementById("mydiv 235 "));
+dragElement(document.getElementById("mydiv 236 "));
+dragElement(document.getElementById("mydiv 237 "));
+dragElement(document.getElementById("mydiv 238 "));
+dragElement(document.getElementById("mydiv 239 "));
+dragElement(document.getElementById("mydiv 240 "));
+dragElement(document.getElementById("mydiv 241 "));
+dragElement(document.getElementById("mydiv 242 "));
+dragElement(document.getElementById("mydiv 243 "));
+dragElement(document.getElementById("mydiv 244 "));
+dragElement(document.getElementById("mydiv 245 "));
+dragElement(document.getElementById("mydiv 246 "));
+dragElement(document.getElementById("mydiv 247 "));
+dragElement(document.getElementById("mydiv 248 "));
+dragElement(document.getElementById("mydiv 249 "));
+dragElement(document.getElementById("mydiv 250 "));
+dragElement(document.getElementById("mydiv 251 "));
+dragElement(document.getElementById("mydiv 252 "));
+dragElement(document.getElementById("mydiv 253 "));
+dragElement(document.getElementById("mydiv 254 "));
+dragElement(document.getElementById("mydiv 255 "));
+dragElement(document.getElementById("mydiv 256 "));  
+
+
+// Function to randomly position elements
+function setRandomPosition(elmnt) {
+  var randomX = Math.floor(Math.random() * (window.innerWidth - elmnt.offsetWidth));
+  var randomY = Math.floor(Math.random() * (window.innerHeight - elmnt.offsetHeight));
+  elmnt.style.left = randomX + "px";
+  elmnt.style.top = randomY + "px";
+}
+
+// Set random positions on load
+window.onload = function() {
+  setRandomPosition(document.getElementById("mydiv1"));
+  setRandomPosition(document.getElementById("mydiv2"));
+  setRandomPosition(document.getElementById("mydiv3"));
+  setRandomPosition(document.getElementById("mydiv4"));
+  setRandomPosition(document.getElementById("mydiv5"));
+  setRandomPosition(document.getElementById("mydiv6"));
+  setRandomPosition(document.getElementById("mydiv7"));
+  setRandomPosition(document.getElementById("mydiv8"));
+  setRandomPosition(document.getElementById("mydiv9"));
+  setRandomPosition(document.getElementById("mydiv10"));
+  setRandomPosition(document.getElementById("mydiv11"));
+  setRandomPosition(document.getElementById("mydiv12"));
+  setRandomPosition(document.getElementById("mydiv13"));
+  setRandomPosition(document.getElementById("mydiv14"));
+  setRandomPosition(document.getElementById("mydiv15"));
+  setRandomPosition(document.getElementById("mydiv16"));
+  setRandomPosition(document.getElementById("mydiv17"));
+  setRandomPosition(document.getElementById("mydiv18"));
+  setRandomPosition(document.getElementById("mydiv19"));
+  setRandomPosition(document.getElementById("mydiv20"));
+  setRandomPosition(document.getElementById("mydiv21"));
+  setRandomPosition(document.getElementById("mydiv22"));
+  setRandomPosition(document.getElementById("mydiv23"));
+  setRandomPosition(document.getElementById("mydiv24"));
+  setRandomPosition(document.getElementById("mydiv25"));
+  setRandomPosition(document.getElementById("mydiv26"));
+  setRandomPosition(document.getElementById("mydiv27"));
+  setRandomPosition(document.getElementById("mydiv28"));
+  setRandomPosition(document.getElementById("mydiv29"));
+  setRandomPosition(document.getElementById("mydiv30"));
+  setRandomPosition(document.getElementById("mydiv31"));
+  setRandomPosition(document.getElementById("mydiv32"));
+  setRandomPosition(document.getElementById("mydiv33"));
+  setRandomPosition(document.getElementById("mydiv34"));
+  setRandomPosition(document.getElementById("mydiv35"));
+  setRandomPosition(document.getElementById("mydiv36"));
+  setRandomPosition(document.getElementById("mydiv37"));
+  setRandomPosition(document.getElementById("mydiv38"));
+  setRandomPosition(document.getElementById("mydiv39"));
+  setRandomPosition(document.getElementById("mydiv40"));
+  setRandomPosition(document.getElementById("mydiv41"));
+  setRandomPosition(document.getElementById("mydiv42"));
+  setRandomPosition(document.getElementById("mydiv43"));
+  setRandomPosition(document.getElementById("mydiv44"));
+  setRandomPosition(document.getElementById("mydiv45"));
+  setRandomPosition(document.getElementById("mydiv46"));
+  setRandomPosition(document.getElementById("mydiv47"));
+  setRandomPosition(document.getElementById("mydiv48"));
+  setRandomPosition(document.getElementById("mydiv49"));
+  setRandomPosition(document.getElementById("mydiv50"));
+  setRandomPosition(document.getElementById("mydiv51"));
+  setRandomPosition(document.getElementById("mydiv52"));
+  setRandomPosition(document.getElementById("mydiv53"));
+  setRandomPosition(document.getElementById("mydiv54"));
+  setRandomPosition(document.getElementById("mydiv55"));
+  setRandomPosition(document.getElementById("mydiv56"));
+  setRandomPosition(document.getElementById("mydiv57"));
+  setRandomPosition(document.getElementById("mydiv58"));
+  setRandomPosition(document.getElementById("mydiv59"));
+  setRandomPosition(document.getElementById("mydiv60"));
+  setRandomPosition(document.getElementById("mydiv61"));
+  setRandomPosition(document.getElementById("mydiv62"));
+  setRandomPosition(document.getElementById("mydiv63"));
+  setRandomPosition(document.getElementById("mydiv64"));
+  setRandomPosition(document.getElementById("mydiv64"));
+  setRandomPosition(document.getElementById("mydiv65"));
+  setRandomPosition(document.getElementById("mydiv66"));
+  setRandomPosition(document.getElementById("mydiv67"));
+  setRandomPosition(document.getElementById("mydiv68"));
+  setRandomPosition(document.getElementById("mydiv69"));
+  setRandomPosition(document.getElementById("mydiv70"));
+  setRandomPosition(document.getElementById("mydiv71"));
+  setRandomPosition(document.getElementById("mydiv72"));
+  setRandomPosition(document.getElementById("mydiv73"));
+  setRandomPosition(document.getElementById("mydiv74"));
+  setRandomPosition(document.getElementById("mydiv75"));
+  setRandomPosition(document.getElementById("mydiv76"));
+  setRandomPosition(document.getElementById("mydiv77"));
+  setRandomPosition(document.getElementById("mydiv78"));
+  setRandomPosition(document.getElementById("mydiv79"));
+  setRandomPosition(document.getElementById("mydiv80"));
+  setRandomPosition(document.getElementById("mydiv81"));
+  setRandomPosition(document.getElementById("mydiv82"));
+  setRandomPosition(document.getElementById("mydiv83"));
+  setRandomPosition(document.getElementById("mydiv84"));
+  setRandomPosition(document.getElementById("mydiv85"));
+  setRandomPosition(document.getElementById("mydiv86"));
+  setRandomPosition(document.getElementById("mydiv87"));
+  setRandomPosition(document.getElementById("mydiv88"));
+  setRandomPosition(document.getElementById("mydiv89"));
+  setRandomPosition(document.getElementById("mydiv90"));
+  setRandomPosition(document.getElementById("mydiv91"));
+  setRandomPosition(document.getElementById("mydiv92"));
+  setRandomPosition(document.getElementById("mydiv93"));
+  setRandomPosition(document.getElementById("mydiv94"));
+  setRandomPosition(document.getElementById("mydiv95"));
+  setRandomPosition(document.getElementById("mydiv96"));
+  setRandomPosition(document.getElementById("mydiv97"));
+  setRandomPosition(document.getElementById("mydiv98"));
+  setRandomPosition(document.getElementById("mydiv99"));
+  setRandomPosition(document.getElementById("mydiv100"));
+  setRandomPosition(document.getElementById("mydiv101"));
+  setRandomPosition(document.getElementById("mydiv102"));
+  setRandomPosition(document.getElementById("mydiv103"));
+  setRandomPosition(document.getElementById("mydiv104"));
+  setRandomPosition(document.getElementById("mydiv105"));
+  setRandomPosition(document.getElementById("mydiv106"));
+  setRandomPosition(document.getElementById("mydiv107"));
+  setRandomPosition(document.getElementById("mydiv108"));
+  setRandomPosition(document.getElementById("mydiv109"));
+  setRandomPosition(document.getElementById("mydiv110"));
+  setRandomPosition(document.getElementById("mydiv111"));
+  setRandomPosition(document.getElementById("mydiv112"));
+  setRandomPosition(document.getElementById("mydiv113"));
+  setRandomPosition(document.getElementById("mydiv114"));
+  setRandomPosition(document.getElementById("mydiv115"));
+  setRandomPosition(document.getElementById("mydiv116"));
+  setRandomPosition(document.getElementById("mydiv117"));
+  setRandomPosition(document.getElementById("mydiv118"));
+  setRandomPosition(document.getElementById("mydiv119"));
+  setRandomPosition(document.getElementById("mydiv120"));
+  setRandomPosition(document.getElementById("mydiv121"));
+  setRandomPosition(document.getElementById("mydiv122"));
+  setRandomPosition(document.getElementById("mydiv123"));
+  setRandomPosition(document.getElementById("mydiv124"));
+  setRandomPosition(document.getElementById("mydiv125"));
+  setRandomPosition(document.getElementById("mydiv126"));
+  setRandomPosition(document.getElementById("mydiv127"));
+  setRandomPosition(document.getElementById("mydiv128"));
+  setRandomPosition(document.getElementById("mydiv 129 "));
+  setRandomPosition(document.getElementById("mydiv 130 "));
+  setRandomPosition(document.getElementById("mydiv 131 "));
+  setRandomPosition(document.getElementById("mydiv 132 "));
+  setRandomPosition(document.getElementById("mydiv 133 "));
+  setRandomPosition(document.getElementById("mydiv 134 "));
+  setRandomPosition(document.getElementById("mydiv 135 "));
+  setRandomPosition(document.getElementById("mydiv 136 "));
+  setRandomPosition(document.getElementById("mydiv 137 "));
+  setRandomPosition(document.getElementById("mydiv 138 "));
+  setRandomPosition(document.getElementById("mydiv 139 "));
+  setRandomPosition(document.getElementById("mydiv 140 "));
+  setRandomPosition(document.getElementById("mydiv 141 "));
+  setRandomPosition(document.getElementById("mydiv 142 "));
+  setRandomPosition(document.getElementById("mydiv 143 "));
+  setRandomPosition(document.getElementById("mydiv 144 "));
+  setRandomPosition(document.getElementById("mydiv 145 "));
+  setRandomPosition(document.getElementById("mydiv 146 "));
+  setRandomPosition(document.getElementById("mydiv 147 "));
+  setRandomPosition(document.getElementById("mydiv 148 "));
+  setRandomPosition(document.getElementById("mydiv 149 "));
+  setRandomPosition(document.getElementById("mydiv 150 "));
+  setRandomPosition(document.getElementById("mydiv 151 "));
+  setRandomPosition(document.getElementById("mydiv 152 "));
+  setRandomPosition(document.getElementById("mydiv 153 "));
+  setRandomPosition(document.getElementById("mydiv 154 "));
+  setRandomPosition(document.getElementById("mydiv 155 "));
+  setRandomPosition(document.getElementById("mydiv 156 "));
+  setRandomPosition(document.getElementById("mydiv 157 "));
+  setRandomPosition(document.getElementById("mydiv 158 "));
+  setRandomPosition(document.getElementById("mydiv 159 "));
+  setRandomPosition(document.getElementById("mydiv 160 "));
+  setRandomPosition(document.getElementById("mydiv 161 "));
+  setRandomPosition(document.getElementById("mydiv 162 "));
+  setRandomPosition(document.getElementById("mydiv 163 "));
+  setRandomPosition(document.getElementById("mydiv 164 "));
+  setRandomPosition(document.getElementById("mydiv 165 "));
+  setRandomPosition(document.getElementById("mydiv 166 "));
+  setRandomPosition(document.getElementById("mydiv 167 "));
+  setRandomPosition(document.getElementById("mydiv 168 "));
+  setRandomPosition(document.getElementById("mydiv 169 "));
+  setRandomPosition(document.getElementById("mydiv 170 "));
+  setRandomPosition(document.getElementById("mydiv 171 "));
+  setRandomPosition(document.getElementById("mydiv 172 "));
+  setRandomPosition(document.getElementById("mydiv 173 "));
+  setRandomPosition(document.getElementById("mydiv 174 "));
+  setRandomPosition(document.getElementById("mydiv 175 "));
+  setRandomPosition(document.getElementById("mydiv 176 "));
+  setRandomPosition(document.getElementById("mydiv 177 "));
+  setRandomPosition(document.getElementById("mydiv 178 "));
+  setRandomPosition(document.getElementById("mydiv 179 "));
+  setRandomPosition(document.getElementById("mydiv 180 "));
+  setRandomPosition(document.getElementById("mydiv 181 "));
+  setRandomPosition(document.getElementById("mydiv 182 "));
+  setRandomPosition(document.getElementById("mydiv 183 "));
+  setRandomPosition(document.getElementById("mydiv 184 "));
+  setRandomPosition(document.getElementById("mydiv 185 "));
+  setRandomPosition(document.getElementById("mydiv 186 "));
+  setRandomPosition(document.getElementById("mydiv 187 "));
+  setRandomPosition(document.getElementById("mydiv 188 "));
+  setRandomPosition(document.getElementById("mydiv 189 "));
+  setRandomPosition(document.getElementById("mydiv 190 "));
+  setRandomPosition(document.getElementById("mydiv 191 "));
+  setRandomPosition(document.getElementById("mydiv 192 "));
+  setRandomPosition(document.getElementById("mydiv 193 "));
+  setRandomPosition(document.getElementById("mydiv 194 "));
+  setRandomPosition(document.getElementById("mydiv 195 "));
+  setRandomPosition(document.getElementById("mydiv 196 "));
+  setRandomPosition(document.getElementById("mydiv 197 "));
+  setRandomPosition(document.getElementById("mydiv 198 "));
+  setRandomPosition(document.getElementById("mydiv 199 "));
+  setRandomPosition(document.getElementById("mydiv 200 "));
+  setRandomPosition(document.getElementById("mydiv 201 "));
+  setRandomPosition(document.getElementById("mydiv 202 "));
+  setRandomPosition(document.getElementById("mydiv 203 "));
+  setRandomPosition(document.getElementById("mydiv 204 "));
+  setRandomPosition(document.getElementById("mydiv 205 "));
+  setRandomPosition(document.getElementById("mydiv 206 "));
+  setRandomPosition(document.getElementById("mydiv 207 "));
+  setRandomPosition(document.getElementById("mydiv 208 "));
+  setRandomPosition(document.getElementById("mydiv 209 "));
+  setRandomPosition(document.getElementById("mydiv 210 "));
+  setRandomPosition(document.getElementById("mydiv 211 "));
+  setRandomPosition(document.getElementById("mydiv 212 "));
+  setRandomPosition(document.getElementById("mydiv 213 "));
+  setRandomPosition(document.getElementById("mydiv 214 "));
+  setRandomPosition(document.getElementById("mydiv 215 "));
+  setRandomPosition(document.getElementById("mydiv 216 "));
+  setRandomPosition(document.getElementById("mydiv 217 "));
+  setRandomPosition(document.getElementById("mydiv 218 "));
+  setRandomPosition(document.getElementById("mydiv 219 "));
+  setRandomPosition(document.getElementById("mydiv 220 "));
+  setRandomPosition(document.getElementById("mydiv 221 "));
+  setRandomPosition(document.getElementById("mydiv 222 "));
+  setRandomPosition(document.getElementById("mydiv 223 "));
+  setRandomPosition(document.getElementById("mydiv 224 "));
+  setRandomPosition(document.getElementById("mydiv 225 "));
+  setRandomPosition(document.getElementById("mydiv 226 "));
+  setRandomPosition(document.getElementById("mydiv 227 "));
+  setRandomPosition(document.getElementById("mydiv 228 "));
+  setRandomPosition(document.getElementById("mydiv 229 "));
+  setRandomPosition(document.getElementById("mydiv 230 "));
+  setRandomPosition(document.getElementById("mydiv 231 "));
+  setRandomPosition(document.getElementById("mydiv 232 "));
+  setRandomPosition(document.getElementById("mydiv 233 "));
+  setRandomPosition(document.getElementById("mydiv 234 "));
+  setRandomPosition(document.getElementById("mydiv 235 "));
+  setRandomPosition(document.getElementById("mydiv 236 "));
+  setRandomPosition(document.getElementById("mydiv 237 "));
+  setRandomPosition(document.getElementById("mydiv 238 "));
+  setRandomPosition(document.getElementById("mydiv 239 "));
+  setRandomPosition(document.getElementById("mydiv 240 "));
+  setRandomPosition(document.getElementById("mydiv 241 "));
+  setRandomPosition(document.getElementById("mydiv 242 "));
+  setRandomPosition(document.getElementById("mydiv 243 "));
+  setRandomPosition(document.getElementById("mydiv 244 "));
+  setRandomPosition(document.getElementById("mydiv 245 "));
+  setRandomPosition(document.getElementById("mydiv 246 "));
+  setRandomPosition(document.getElementById("mydiv 247 "));
+  setRandomPosition(document.getElementById("mydiv 248 "));
+  setRandomPosition(document.getElementById("mydiv 249 "));
+  setRandomPosition(document.getElementById("mydiv 250 "));
+  setRandomPosition(document.getElementById("mydiv 251 "));
+  setRandomPosition(document.getElementById("mydiv 252 "));
+  setRandomPosition(document.getElementById("mydiv 253 "));
+  setRandomPosition(document.getElementById("mydiv 254 "));
+  setRandomPosition(document.getElementById("mydiv 255 "));
+  setRandomPosition(document.getElementById("mydiv 256 "));
+
+  
+  
+};
+
+function dragElement(elmnt) {
+  var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+  elmnt.onmousedown = dragMouseDown;
+
+  function dragMouseDown(e) {
+    e = e || window.event;
+    e.preventDefault();
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    document.onmouseup = closeDragElement;
+    document.onmousemove = elementDrag;
+  }
+
+  function elementDrag(e) {
+    e = e || window.event;
+    e.preventDefault();
+    pos1 = pos3 - e.clientX;
+    pos2 = pos4 - e.clientY;
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+    elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+  }
+
+  function closeDragElement() {
+    document.onmouseup = null;
+    document.onmousemove = null;
+  }
+}
+</script>
+
+</body>
+</html>
